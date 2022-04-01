@@ -1,5 +1,7 @@
 ### Hello Friend 👋
 
+I am Andrés from the Planet Earth. I like to learn new things every time, mostly programming with ruby and python.
+
 <!--
 **a-chacon/a-chacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
