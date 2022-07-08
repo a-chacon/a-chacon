@@ -4,7 +4,7 @@ I am Andrés from the Planet Earth. I like to learn new things every time, mostl
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on opensource projects.
 
-🚲
+🌳 🚲 🌳
 
 <!--
 **a-chacon/a-chacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
