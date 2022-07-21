@@ -2,7 +2,6 @@
 
 I am Andrés from the Planet Earth. I like to learn new things every time, mostly programming with Ruby.
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on opensource projects.
 
 🌳 🚲 🌳
 
