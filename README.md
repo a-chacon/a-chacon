@@ -15,3 +15,5 @@ Advocate for open knowledge, digital rights, and open-source software. Constantl
 [Website](https://a-chacon.com) | [Blog](https://a-chacon.com/blog) | [Projects](https://a-chacon.com/projects) 
 
 *"Creating, sharing, and learning in a world without borders." 🌐*
+
+In process to migrate my personal projects to https://codeberg.org/a-chacon
